@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vidly_1", "Vidly_1\Vidly_1.csproj", "{97B00530-7BCE-4051-A98D-B527290118DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vidly_1.Tests", "Vidly_1.Tests\Vidly_1.Tests.csproj", "{170EA31F-BE12-42AB-8809-490703FF815D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97B00530-7BCE-4051-A98D-B527290118DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97B00530-7BCE-4051-A98D-B527290118DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97B00530-7BCE-4051-A98D-B527290118DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97B00530-7BCE-4051-A98D-B527290118DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{170EA31F-BE12-42AB-8809-490703FF815D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{170EA31F-BE12-42AB-8809-490703FF815D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{170EA31F-BE12-42AB-8809-490703FF815D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{170EA31F-BE12-42AB-8809-490703FF815D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAEA9591-244B-408F-B236-199D23700D0C}
+	EndGlobalSection
+EndGlobal
